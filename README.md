@@ -42,7 +42,7 @@ pip install termcolor
 pip install questionary
 pip install bcrypt
 ```
-  - Import the MySQL database named `url_shortener.sql`
+  - Import the sql file named `url_shortener.sql`
 
 2. **Usage:**
    - Run `main.py`

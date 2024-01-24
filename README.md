@@ -36,13 +36,14 @@ This project aims to create a URL shortener with some additional features to enh
 1. **Installation:**
    - Clone the repository.
    - Install the following dependencies:
- ```
-pip install mysql-connector-python 
-pip install termcolor
-pip install questionary
-pip install bcrypt
-```
-  - Import the sql file named `url_shortener.sql`
+     
+   ```
+   pip install mysql-connector-python 
+   pip install termcolor
+   pip install questionary
+   pip install bcrypt
+   ```
+   - Start Apache and MySQL from XAMPP control panel and import the sql file named `url_shortener.sql` into phpMyAdmin to get the database.
 
 2. **Usage:**
    - Run `main.py`
